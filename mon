@@ -21,3 +21,15 @@ let myCurrentJob = 'Teacher';
 
 let job1 = 'programmer';
 let job2 = 'teacher';
+
+let country = 'unitedStates';
+let continent = 'northAmerica';
+let population = '330,000,000';
+let isIsland = 'no'
+let language = 'english'
+
+console.log(country);
+console.log(continent);
+console.log(population);
+console.log(isIsland);
+console.log(language);
